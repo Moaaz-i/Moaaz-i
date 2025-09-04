@@ -1,5 +1,5 @@
-# Hello I am Moaaz
-## Projects I've created
+# Hi, I'm Moaz. 
+## These are the websites I've created so far, including assignments, tests, tasks, and even simple websites I created while learning programming.
 
 ### https://moaaz-i.github.io/Mealify/
 ### https://moaaz-i.github.io/DevFolio/
